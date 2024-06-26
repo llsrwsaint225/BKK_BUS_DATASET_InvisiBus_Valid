@@ -1,5 +1,5 @@
-train: /kaggle/working/Bangkok_Bus_dataset_InvisiBus/train/images
-val: /kaggle/working/Bangkok_Bus_dataset_InvisiBus/val/images
+train: /kaggle/working/BKK_BUS_DATASET_InvisiBus_Valid/train/images
+val: /kaggle/working/BKK_BUS_DATASET_InvisiBus_Valid/valid/images
 test: ../test/images
 
 nc: 7
