@@ -1,0 +1,13 @@
+train: /kaggle/working/Bangkok_Bus_dataset_InvisiBus/train/images
+val: /kaggle/working/Bangkok_Bus_dataset_InvisiBus/val/images
+test: ../test/images
+
+nc: 7
+names: ['BMTA-bus', 'Bus-Line-Number', 'Destination-Sign-Extra-Bus', 'Destination-Sign-Extra-Bus-Expressway', 'Destination-Sign-Normal', 'Destination-Sign-Normal-Expressway', 'TSB-Bus']
+
+roboflow:
+  workspace: saint70239
+  project: bangkok-bus-dataset-type2
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/saint70239/bangkok-bus-dataset-type2/dataset/4
